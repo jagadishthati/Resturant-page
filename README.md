@@ -1,6 +1,6 @@
 # Resturant-page
 
->  [Thati jagadish](https://vercel.com/jagadishthati/protfolio/FjwQK34X5QWvNMRANtgv5rXq6wNZ)
+> ## [Thati jagadish](https://vercel.com/jagadishthati/protfolio/FjwQK34X5QWvNMRANtgv5rXq6wNZ)
 
 ![img](https://img.shields.io/badge/Deployed-yes-green) ![img](https://img.shields.io/badge/Time--taken-5%20hrs-green)
 
