@@ -11,8 +11,8 @@
  ## Checkout the live website [here.](https://aquamarine-rugelach-a09867.netlify.app/)
  
  ## My Learnings
- -Learned about position in css
- -learned about linear gradients 
+ - Learned about position in css
+ - learned about linear gradients 
  
  ## How the website looks like 
  ![31 08 2022_18 17 05_REC](https://user-images.githubusercontent.com/103732075/187681835-513a784c-f81b-4c53-91b0-3f65f7e96ed8.png)
